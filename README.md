@@ -44,7 +44,9 @@ We use this categorical data encoding technique when the features are nominal(do
 ![alt text](<Screenshot 2025-04-16 122907.png>)
 ![alt text](<Screenshot 2025-04-16 122934.png>)
 ![alt text](<Screenshot 2025-04-16 123046.png>)
+'''
+https://colab.research.google.com/drive/1-DqpIcLGpJ3QKcrm_opK3wlBT17KIzkx?usp=sharing
+'''
 # RESULT:
        # INCLUDE YOUR RESULT HERE
-
        
