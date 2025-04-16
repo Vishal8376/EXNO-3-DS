@@ -31,7 +31,19 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![alt text](<Screenshot 2025-04-16 122307.png>)
+![alt text](<Screenshot 2025-04-16 122324.png>)
+![alt text](<Screenshot 2025-04-16 122338.png>)
+![alt text](<Screenshot 2025-04-16 122356.png>)
+![alt text](<Screenshot 2025-04-16 122433.png>)
+![alt text](<Screenshot 2025-04-16 122539.png>)
+![alt text](<Screenshot 2025-04-16 122615.png>)
+![alt text](<Screenshot 2025-04-16 122640.png>)
+![alt text](<Screenshot 2025-04-16 122723.png>)
+![alt text](<Screenshot 2025-04-16 122827.png>)
+![alt text](<Screenshot 2025-04-16 122907.png>)
+![alt text](<Screenshot 2025-04-16 122934.png>)
+![alt text](<Screenshot 2025-04-16 123046.png>)
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
